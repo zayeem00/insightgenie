@@ -13,7 +13,7 @@ InsightGenie is an AI-based natural language to visualization tool designed to i
 ## Installation
    Clone the repository:
    
-   git clone https://github.com/your-username/insightgenie.git
+   git clone https://github.com/zayeem00/insightgenie.git
 
    cd insightgenie
 
