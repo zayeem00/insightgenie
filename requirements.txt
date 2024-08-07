@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai==0.28
+pymongo
+plotly
+dnspython
